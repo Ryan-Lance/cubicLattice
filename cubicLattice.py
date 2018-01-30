@@ -1,3 +1,6 @@
+# Ryan Lance
+# Oregon State University
+# Dept. of Physics
 from __future__ import division
 from visual import *
 import numpy as np
